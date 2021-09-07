@@ -78,16 +78,14 @@
                     </div>
                   </div>
 
-
-                  
-                </div>
+                </div> <!-- Fine blocco sinistro -->
 
                 <!-- Blocco destro -->
                 <div class="col-9">
 
                   <div class="text-center h5">Dati anagrafici</div>
 
-                </div>
+                </div> <!-- Fine blocco destro -->
 
 
 
