@@ -3,7 +3,7 @@
 
 <head>
 
-  <?php require "./includes/header.html" ?>
+  <?php require_once "./includes/header.html" ?>
 
   <title>Cartella Clinica</title>
 
