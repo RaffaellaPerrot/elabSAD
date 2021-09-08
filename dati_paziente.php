@@ -334,7 +334,7 @@
 
                                 <div class="row">
                                     <div class="col-sm-12 col-md-9 mb-3">
-                                        <label class="form-label">Telefono ufficio</label>
+                                        <label class="form-label">Telefono fisso</label>
                                         <input type="text" class="form-control" name="inputTelUf">
                                     </div>
                                     <div class="col-sm-12 col-md-9 mb-3">
