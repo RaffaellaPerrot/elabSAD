@@ -325,12 +325,19 @@
                                     </div>
                                 </div>
 
+                                    <div class="row">
+                                    <div class="col-sm-12 col-md-9 mb-3">
+                                        <label class="form-label">Codice Fiscale</label>
+                                        <input type="text" class="form-control" name="inputCap">
+                                    </div>
+                                </div>
+
                                 <div class="row">
-                                    <div class="col-sm-12 col-md-6 mb-3">
+                                    <div class="col-sm-12 col-md-9 mb-3">
                                         <label class="form-label">Telefono ufficio</label>
                                         <input type="text" class="form-control" name="inputTelUf">
                                     </div>
-                                    <div class="col-sm-12 col-md-6 mb-3">
+                                    <div class="col-sm-12 col-md-9 mb-3">
                                         <label class="form-label">Cellulare</label>
                                         <input type="text" class="form-control" name="inputCell">
                                     </div>
@@ -647,7 +654,7 @@
 
                                 <div class="row">
 
-                                    <div class="col-md-9 mb-3">
+                                    <div class="col-sm-12 col-md-9 mb-3">
                                         <label class="form-label">Prestazioni per</label>
                                         <input type="text" class="form-control" name="inputPrestazioniPer">
                                     </div>
