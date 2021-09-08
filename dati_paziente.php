@@ -57,7 +57,7 @@
                                         <input type="text" class="form-control" placeholder="Cognome" name="inputCognome">
                                     </div>
                                     <div class="col-sm-12 col-md-4 mb-3">
-                                        <label class="form-label">Data</label>
+                                        <label class="form-label">Data di nascita</label>
                                         <input type="datetime-local" class="form-control" name="inputData">
                                     </div>
                                 </div>
