@@ -5,7 +5,7 @@
 
   <?php require "./includes/header.html" ?>
 
-  <title>Lista Pazienti</title>
+  <title>Cartella Clinica</title>
 
   <!-- Custom styles for this template-->
   <link href="css/sb-admin-2.min.css" rel="stylesheet">
