@@ -56,7 +56,6 @@
   <!-- Including LogoutModal -->
   <?php require "./includes/logoutModal.html" ?>
 
-
   <?php require "./includes/footer.html" ?>
 
 </body>
