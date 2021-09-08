@@ -234,7 +234,7 @@
                                         <label class="form-label">Nome</label>
                                         <input type="text" class="form-control" placeholder="Nome" name="inputFiscaleNome">
                                     </div>
-
+                                    
                                     <div class="container-fluid col-sm-12 col-md-2 d-flex align-items-center mt-3">
                                         <div class="form-check form-check-inline">
                                             <input class="form-check-input" type="radio" name="radioChooseSex" id="radioMaschio">
@@ -288,7 +288,7 @@
                                 </div>
 
                                 <div class="d-flex justify-content-center" style="padding-top:0.5rem;">
-                                    <button class="btn btn-primary btn-lg" type"submit"> Modifica </button>
+                                    <button class="btn btn-primary btn-lg" type="submit"> Modifica </button>
                                 </div>
 
                             </form>
