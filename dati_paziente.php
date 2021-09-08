@@ -659,7 +659,7 @@
                                         <input type="text" class="form-control" name="inputPrestazioniPer">
                                     </div>
 
-                                    <div class="col-md-3 mb-3 d-flex align-items-end mb-1">
+                                    <div class="col-sm-12 col-md-3 mb-3 d-flex align-items-end mb-1">
                                         <button type="submit" class="btn btn-secondary btn-sm"> Calcola CF</button>
                                     </div>
 
