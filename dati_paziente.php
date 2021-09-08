@@ -57,7 +57,7 @@
                                         <input type="text" class="form-control" name="inputCognome">
                                     </div>
 
-                                    <div class="container-fluid col-sm-12 col-md-2 d-flex align-items-center mt-3">
+                                    <div class="container-fluid col-sm-12 col-md-4 d-flex align-items-center mt-3">
                                         <div class="form-check form-check-inline">
                                             <input class="form-check-input" type="radio" name="radioChooseSex" id="radioMaschio">
                                             <label class="form-check-label" for="radioMaschio"> M </label>
@@ -67,7 +67,6 @@
                                             <input class="form-check-input" type="radio" name="radioChooseSex" id="radioFemmina">
                                             <label class="form-check-label" for="radioFemmina"> F </label>
                                         </div>
-
                                     
                                     <!-- container M-F end -->
 
@@ -82,7 +81,7 @@
                                         <input type="text" class="form-control" placeholder="Città" name="inputNatoA">
                                     </div>
 
-                                 <div class="col-md-3 mb-3">
+                                <div class="col-sm-12 col-md-4 mb-3">
                                         <label class="form-label">Provincia</label>
                                         <select id="provincia" class="form-control" name="provincia">
                                             <option selected="selected" value="-Seleziona-">-Seleziona-</option>
@@ -198,13 +197,13 @@
                                             <option value="vt">Viterbo</option>
                                         </select>
                                     </div>
-
+                                </div>
                                 <div class="row">
-                                    <div class="col-md-3 mb-3">
+                                    <div class="col-sm-12 col-md-4 mb-3">
                                         <label class="form-label">Residente in</label>
                                         <input type="text" class="form-control" placeholder="Comune" name="inputResidenza">
                                     </div>
-                                    <div class="col-md-3 mb-3">
+                                    <div class="col-sm-12 col-md-4 mb-3">
                                         <label class="form-label">Provincia</label>
                                         <select id="provincia" class="form-control" placeholder="--" name="provincia">
                                             <option selected="selected" value="-Seleziona-">-Seleziona-</option>
@@ -320,7 +319,7 @@
                                             <option value="vt">Viterbo</option>
                                         </select>
                                     </div>
-                                    <div class="col-md-3 mb-3">
+                                    <div class="col-sm-12 col-md-4 mb-3">
                                         <label class="form-label">CAP</label>
                                         <input type="text" class="form-control" name="inputCap">
                                     </div>
@@ -338,7 +337,7 @@
                                 </div>
 
                                 <div class="d-flex justify-content-center" style="padding-top:0.5rem;">
-                                    <button class="btn btn-primary btn-lg" type"submit"> Modifica </button>
+                                    <button class="btn btn-primary btn-lg" type="submit"> Modifica </button>
                                 </div>
 
                             </form>
@@ -363,18 +362,18 @@
 
                                 <div class="row">
                               
-                                    <div class="col-sm-12 col-md-5 mb-3">
+                                    <div class="col-sm-12 col-md-4 mb-3">
                                         <label class="form-label">Nome</label>
                                         <input type="text" class="form-control" name="inputFiscaleNome">
                                     </div>
 
-                                    <div class="col-sm-12 col-md-5 mb-3">
+                                    <div class="col-sm-12 col-md-4 mb-3">
                                         <label class="form-label">Cognome</label>
                                         <input type="text" class="form-control" name="inputFiscaleCognome">
                                     </div>
 
                                     
-                                    <div class="container-fluid col-sm-12 col-md-2 d-flex align-items-center mt-3">
+                                    <div class="container-fluid col-sm-12 col-md-4 d-flex align-items-center mt-3">
                                         <div class="form-check form-check-inline">
                                             <input class="form-check-input" type="radio" name="radioChooseSex" id="radioMaschio">
                                             <label class="form-check-label" for="radioMaschio"> M </label>
@@ -392,16 +391,16 @@
 
                                 <div class="row">
 
-                                <div class="col-md-4 mb-3">
+                                <div class="col-sm-12 col-md-4 mb-3">
                                         <label class="form-label">Data di nascita</label>
                                         <input type="datetime-local" class="form-control" placeholder="gg/mm/aaaa" name="inputFiscaleData">
                                     </div>
-                                    <div class="col-md-4 mb-3">
+                                    <div class="col-sm-12 col-md-4 mb-3">
                                         <label class="form-label">Nato/a a</label>
                                         <input type="text" class="form-control" placeholder="Città" name="inputNatoA">
                                     </div>
 
-                                    <div class="col-md-3 mb-3">
+                                    <div class="col-sm-12 col-md-4 mb-3">
                                         <label class="form-label">Provincia</label>
                                         <select id="provincia" class="form-control" name="provincia">
                                             <option selected="selected" value="-Seleziona-">-Seleziona-</option>
@@ -520,11 +519,11 @@
 
 
 
-                                    <div class="col-md-3 mb-3">
+                                    <div class="col-sm-12 col-md-4 mb-3">
                                         <label class="form-label">Residente in</label>
                                         <input type="text" class="form-control" placeholder="Comune" name="inputFiscaleResidenza">
                                     </div>
-                                    <div class="col-md-3 mb-3">
+                                    <div class="col-sm-12 col-md-4 mb-3">
                                         <label class="form-label">Provincia</label>
                                         <select id="provincia" class="form-control" name="provincia">
                                             <option selected="selected" value="-Seleziona-">-Seleziona-</option>
