@@ -50,15 +50,15 @@
                                 <div class="row">
                                     <div class="col-sm-12 col-md-4 mb-3">
                                         <label class="form-label">Nome</label>
-                                        <input type="text" class="form-control" placeholder="Nome" name="inputNome">
+                                        <input type="text" class="form-control" name="inputNome">
                                     </div>
                                     <div class="col-sm-12 col-md-4 mb-3">
                                         <label class="form-label">Cognome</label>
-                                        <input type="text" class="form-control" placeholder="Cognome" name="inputCognome">
+                                        <input type="text" class="form-control" name="inputCognome">
                                     </div>
                                     <div class="col-sm-12 col-md-4 mb-3">
                                         <label class="form-label">Data di nascita</label>
-                                        <input type="datetime-local" class="form-control" placeholder="Data di nascita" name="inputData">
+                                        <input type="datetime-local" class="form-control" placeholder="Giorno/Mese/Anno" name="inputData">
                                     </div>
                                 </div>
 
@@ -183,19 +183,19 @@
                                         </select>
                                     </div>
                                     <div class="col-sm-12 col-md-4 mb-3">
-                                        <label class="form-label">Cap</label>
-                                        <input type="text" class="form-control" placeholder="CAP" name="inputCap">
+                                        <label class="form-label">CAP</label>
+                                        <input type="text" class="form-control" name="inputCap">
                                     </div>
                                 </div>
 
                                 <div class="row">
                                     <div class="col-sm-12 col-md-6 mb-3">
                                         <label class="form-label">Telefono ufficio</label>
-                                        <input type="text" class="form-control" placeholder="Telefono ufficio" name="inputTelUf">
+                                        <input type="text" class="form-control" name="inputTelUf">
                                     </div>
                                     <div class="col-sm-12 col-md-6 mb-3">
                                         <label class="form-label">Cellulare</label>
-                                        <input type="text" class="form-control" placeholder="Cellulare" name="inputCell">
+                                        <input type="text" class="form-control" name="inputCell">
                                     </div>
                                 </div>
 
@@ -227,12 +227,12 @@
                               
                                     <div class="col-sm-12 col-md-5 mb-3">
                                         <label class="form-label">Nome</label>
-                                        <input type="text" class="form-control" placeholder="Nome" name="inputFiscaleNome">
+                                        <input type="text" class="form-control" name="inputFiscaleNome">
                                     </div>
 
                                     <div class="col-sm-12 col-md-5 mb-3">
                                         <label class="form-label">Cognome</label>
-                                        <input type="text" class="form-control" placeholder="Cognome" name="inputFiscaleCognome">
+                                        <input type="text" class="form-control" name="inputFiscaleCognome">
                                     </div>
 
                                     
@@ -256,7 +256,7 @@
 
                                 <div class="col-md-4 mb-3">
                                         <label class="form-label">Data di nascita</label>
-                                        <input type="datetime-local" class="form-control" placeholder="Data di nascita" name="inputFiscaleData">
+                                        <input type="datetime-local" class="form-control" placeholder="Giorno/Mese/Anno" name="inputFiscaleData">
                                     </div>
                                     <div class="col-md-4 mb-3">
                                         <label class="form-label">Nato/a a</label>
